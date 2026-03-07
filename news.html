@@ -75,6 +75,15 @@
         @media (max-width: 768px) {
             .view-title-xl { font-size: 32px; }
             .news-row { grid-template-columns: 1fr; }
+        @media (max-width: 1024px) {
+        .projects-container.news-width-limit {
+            /* 상단 패딩을 70px로 강제 부여 */
+            padding-top: 70px !important;
+
+    }
+
+
+}
         }
     </style>
 </head>
@@ -103,23 +112,11 @@
     <div id="news-hover-popup"><img src="" alt="News Preview"></div>
 
     <main class="projects-container news-width-limit">
-        <div class="news-title-section" data-aos="fade-up">
-            <h1 class="view-title-xl">
-                <span class="en">News</span>
-                <span class="ko">소식</span>
-            </h1>
-        </div>
-
-        <div class="projects-controls" data-aos="fade-up">
-            <div class="project-search">
-                <input type="text" id="n-search-input" placeholder="Search News..." onkeyup="filterNews()">
-            </div>
-        </div>
-        <div id="news-list-container" class="news-list-container"></div>
-    </main>
-
-    <section id="contact" class="footer-section">
-    <div class="footer-container">
+<!-- LightWidget WIDGET -->
+        
+        <!-- LightWidget WIDGET -->
+        <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
+        <iframe src="http://lightwidget.com/widgets/da68077779525790a78098d69e682ac2.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
         <div class="footer-office-info">
             <h4>
                 <span class="ko">(주)강부존건축사사무소</span>
