@@ -20,6 +20,8 @@ const projectData = {
         },
         "images": [
             "images/15/01.webp",
+            "images/15/02.webp",
+            "images/15/03.webp",
             "https://www.youtube.com/embed/nLExILKx1tQ",
             "https://youtu.be/V3V2meEjBtQ"
 
