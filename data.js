@@ -830,7 +830,7 @@ const PeopleData = {
     }, 
     "2": {
         "name": { "ko": "김동현", "en": "Dong-hyun Kim" },
-        "position": { "ko": "팀원", "en": "Architect Associate" },
+        "position": { "ko": "팀원", "en": "Architectural Assistant" },
         "qualification": { "ko": " ", "en": " " },
         "description": { 
             "ko": " ", 
@@ -840,7 +840,7 @@ const PeopleData = {
     }, 
     "3": {
         "name": { "ko": "정연준", "en": "Yeon-joon Jeong" },
-        "position": { "ko": "팀원", "en": "Architect Associate" },
+        "position": { "ko": "팀원", "en": "Architectural Assistant" },
         "qualification": { "ko": " ", "en": " " },
         "description": { 
             "ko": " ", 
