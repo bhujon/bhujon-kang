@@ -821,12 +821,13 @@ const PeopleData = {
     "1": {
         "name": { "ko": "강부존", "en": "Bhujon Kang" },
         "position": { "ko": "대표 건축사", "en": "Principal Architect" },
-        "qualification": { "ko": "AIA, NCARB, KIRA", "en": "AIA, NCARB, KIRA" },
+        "qualification": { "ko": "AIA, NCArmed, KIRA", "en": "AIA, NCARB, KIRA" },
         "description": { 
             "ko": "아리조나와 일리노이, 대한민국에 등록된 건축사입니다. 그의 경력은 대규모 공공건축, 전문적이고 학구적인 학제 간 팀워크, 컴퓨터 디자인 연구, 설치미술 및 건축설계 공모전을 포함한 다양한 분야에서 15년 이상 진행되고 있습니다. 강부존은 University of Illinois at Urbana-Champaign, Northern Arizona University, 부산 동아대학교에서 디자인 스튜디오와 세미나를 가르쳤습니다. University of Texas at Austin에서 석사 학위를 취득했으며 재학기간 중 Design Excellence Award를 수상했습니다.", 
             "en": "He is a Korean-native registered architect in Arizona and Illinois as well as the Republic of Korea. His career spans over fifteen years with a varied scope of design work including large-scale civic architecture, professional and educational interdisciplinary teamwork, advanced computational research, art installations, and design competitions. Bhujon (has) served the University of Illinois at Urbana-Champaign, Northern Arizona University, and Dong-A University, Korea, teaching design studios and seminars. He pursued his Master's degree in the University of Texas at Austin where he was the recipient of the Design Excellence Award in the School of Architecture." 
         },
-        "image": "images/people/bk.webp";
+        "image": "images/people/bk.webp"
+    }, 
     "2": {
         "name": { "ko": "김동현", "en": "Dong-hyun Kim" },
         "position": { "ko": "팀원", "en": "Architect Associate" },
@@ -835,7 +836,8 @@ const PeopleData = {
             "ko": " ", 
             "en": " " 
         },
-        "image": "images/people/dk.webp";
+        "image": "images/people/dk.webp"
+    }, 
     "3": {
         "name": { "ko": "정연준", "en": "Yeon-joon Jeong" },
         "position": { "ko": "팀원", "en": "Architect Associate" },
@@ -846,7 +848,6 @@ const PeopleData = {
         },
         "image": "images/people/yj.webp"
     }
-   
 };
 
 const ArchiveData = {
