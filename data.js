@@ -962,7 +962,7 @@ const ArchiveData = {
         "year": "2023",
         "client": { "ko": "부산광역시", "en": "Busan Metropolitan Office" },
         "program": { "ko": "노유자시설", "en": "Social Welfare Facility" },
-        "image": "proposed21.webp"
+        "image": "proposed/21.webp"
     },
     "20": {
         "title": { "ko": "상동면 기초생활거점 조성사업", "en": "Sangdong-myeon Basic Life Base Development" },
