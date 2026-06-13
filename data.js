@@ -831,7 +831,7 @@ const PeopleData = {
     "2": {
         "name": { "ko": "김동현", "en": "Dong-hyun Kim" },
         "position": { "ko": "팀원", "en": "Architectural Assistant" },
-        "qualification": { "ko": " ", "en": " " },
+        "qualification": { "ko": "dkim@bhujonkang.com", "en": "dkim@bhujonkang.com" },
         "description": { 
             "ko": " ", 
             "en": " " 
@@ -841,7 +841,7 @@ const PeopleData = {
     "3": {
         "name": { "ko": "정연준", "en": "Yeon-joon Jeong" },
         "position": { "ko": "팀원", "en": "Architectural Assistant" },
-        "qualification": { "ko": " ", "en": " " },
+        "qualification": { "ko": "yjeong@bhujonkang.com", "en": "yjeong@bhujonkang.com" },
         "description": { 
             "ko": " ", 
             "en": " " 
