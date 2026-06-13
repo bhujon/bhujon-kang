@@ -845,7 +845,7 @@ const PeopleData = {
             "en": " " 
         },
         "image": "images/people/yj.webp"
-    },
+    }
    
 };
 
