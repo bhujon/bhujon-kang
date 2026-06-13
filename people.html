@@ -24,7 +24,7 @@
         /* [Masonry Layout] */
         .people-masonry {
         display: grid;
-        grid-template-columns: repeat(3, 2fr); 
+        grid-template-columns: repeat(3, 1fr); 
         gap: 30px; /* 요소들 사이의 상하좌우 간격 */
         margin-top: 60px;
         }
@@ -77,12 +77,11 @@
         }
 
         @media (max-width: 1024px)
-            .people-masonry { 
-            grid-template-columns: repeat(2, 2fr) !important; /* 무조건 2줄로 정렬 */
-            }   
+        .people-masonry { grid-template-columns: repeat(2, 1fr); } /* 태블릿에선 2열 */
+        }
         @media (max-width: 600px) 
-            .people-masonry { 
-            grid-template-columns: repeat(1, 2fr) !important; /* 무조건 2줄로 정렬 */
+        .people-masonry { grid-template-columns: repeat(1fr); } /* 태블릿에선 2열 */
+        }
             }    
     </style>
 </head>
