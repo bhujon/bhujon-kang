@@ -23,9 +23,10 @@
 
         /* [Masonry Layout] */
         .people-masonry {
-            column-count: 4;
-            column-gap: 30px;
-            margin-top: 60px;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr); 
+        gap: 30px; /* 요소들 사이의 상하좌우 간격 */
+        margin-top: 60px;
         }
 
         .person-item {
