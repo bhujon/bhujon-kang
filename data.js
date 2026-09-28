@@ -672,7 +672,7 @@ const awardedData = {
         "year": "2026",
         "client": { "ko": "경상북도 포항시", "en": "Pohang-Si, Gyeongsangbuk-Do" },
         "program": { "ko": "전시시설", "en": "Exhibition" },
-        "image": "images/17/1.webp"
+        "image": "images/16/1.webp"
     },    
     "27": {
         "title": { "ko": "글로벌창업허브 부산", "en": "Global Start-up Hub Busan" },
