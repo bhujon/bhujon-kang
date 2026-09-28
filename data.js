@@ -955,7 +955,7 @@ const ArchiveData = {
     "37": {
         "title": { "ko": "해운대수목원 연구 및 관리시설", "en": "Research Facility for Haeundae Arboretum" },
         "year": "2026",
-        "client": { "ko": "부산광역시", "en": "Buaan Metropolitan Office" },
+        "client": { "ko": "부산광역시", "en": "Busan Metropolitan Office" },
         "program": { "ko": "업무시설", "en": "Office" },
         "image": "images/17/1.webp"
     },
