@@ -19,13 +19,13 @@ const projectData = {
             "en": "Metropolitan Office of Busan"
         },
         "images": [
-            "images/17/01.webp",
-            "images/17/02.webp",
-            "images/17/03.webp",
-            "images/17/04.webp",
-            "images/17/05.webp",
-            "images/17/06.webp",
-            "images/17/07.webp"
+            "images/17/1.webp",
+            "images/17/2.webp",
+            "images/17/3.webp",
+            "images/17/4.webp",
+            "images/17/5.webp",
+            "images/17/6.webp",
+            "images/17/7.webp"
         ],
         "desc": {
             "ko": "본 설계안은 부산 해운대수목원의 생태적 가치와 주변 지형적 특성을 반영하여, 자연과 사람이 유기적으로 연결되는 친환경적이고 입체적인 공간을 제안합니다. 대지가 가진 지형 조건과 전면도로, 배후 녹지 간의 흐름을 분석하여 세 개의 호(ARC) 형태의 기하학적 볼륨을 구성하고, 지형을 재조직하는 인공 대지를 통해 자연과 건축이 부드럽게 융화되도록 계획했습니다. 이를 통해 수목원의 첫인상을 결정하는 전면공간은 방문객을 환영하는 개방적이고 역동적인 공공 영역으로 조성하고, 배후 영역은 연구실과 관리사무소 등 기능적 공간을 효율적으로 배치하여 공공성과 업무의 독립성을 동시에 확보했습니다. </br></br>내부 공간은 전면 로비를 중심으로 다양한 기능 조직이 유기적으로 둘러싸는 레이아웃을 적용하여 공간의 입체적 확장성과 시각적 연속성을 극대화했습니다. 특히 코르텐 강판, 로이복층유리, 알루미늄 시트 등 물성 간의 대비를 활용한 입면 계획과 곡면형 지붕 디자인은 주변 자연환경 속에서 세련된 긴장감과 독창적인 건축미를 선사합니다. 더불어 태양광 발전 시스템, 전열 교환기, 지열 냉난방 시스템 등 친환경 설비 계획과 3차원 내진설계를 적용하여 경제성과 지속가능성을 모두 갖춘 미래지향적 수목원 연구·관리 시설을 완성합니다.",
@@ -56,12 +56,12 @@ const projectData = {
             "en": "Pohang-si, Gyeongsangbuk-Do"
         },
         "images": [
-            "images/16/01.webp",
-            "images/16/02.webp",
-            "images/16/03.webp",
-            "images/16/04.webp",
-            "images/16/05.webp",
-            "images/16/06.webp"
+            "images/16/1.webp",
+            "images/16/2.webp",
+            "images/16/3.webp",
+            "images/16/4.webp",
+            "images/16/5.webp",
+            "images/16/6.webp"
         ],
         "desc": {
             "ko": "본 프로젝트는 지형과 건축의 관계를 대지 미술적 전략으로 재해석하여, 땅과 건물이 서로 대비되면서도 유기적으로 융화되는 구축적 방식을 취한다. 공간 구성의 핵심은 지중으로 파고든 매스와 상부로 상승한 매스의 명확한 대비에 있다. 지면 아래로 깊숙이 잠긴 하부 매스는 대지의 지층과 결합하여 포항의 역사를 다루는 차분하고 내밀한 전시 공간을 형성하며, 지형의 연속성을 훼손하지 않고 보존한다. 반면, 지상에 노출된 상부 매스는 기존 언덕의 형상을 대지 위에 다시 재현하듯 대지 위로 솟아올라 주변 바다와 공원을 향한 파노라마 같은 외부 전망을 극대화한다. 이 상부 매스의 지붕면은 옥상 정원을 통해 대지의 연장선인 경사형 데크로 환원되며, 관람객이 언덕 위를 거닐듯 풍경을 조망하는 대지 예술적 경험을 완성한다.",
@@ -189,7 +189,7 @@ const projectData = {
         }     
     },
     "12": {
-        "select": true,
+        "select": false,
         "title": {
             "ko": "정관고등학교 증축",
             "en": "Extention of JeongGwan High School"
@@ -261,7 +261,7 @@ const projectData = {
         }     
     },
     "10": {
-        "select": true,
+        "select": false,
         "title": {
             "ko": "세도나 단독주택",
             "en": "Featherway Home"
@@ -669,6 +669,14 @@ const newsData = {
 
 /* awardedData 카테고리 추가 */
 const awardedData = {
+    "28": {
+        "title": { "ko": "포항시립박물관", "en": "Pohang Museum" },
+        "rank": { "ko": "설계공모 5등작", "en": "5th Prize" },
+        "year": "2026",
+        "client": { "ko": "경상북도 포항시", "en": "Pohang-Si, Gyeongsangbuk-Do" },
+        "program": { "ko": "전시시설", "en": "Exhibition" },
+        "image": "images/17/1.webp"
+    },    
     "27": {
         "title": { "ko": "글로벌창업허브 부산", "en": "Global Start-up Hub Busan" },
         "rank": { "ko": "당선", "en": "Winner (1st Prize)" },
@@ -921,13 +929,33 @@ const PeopleData = {
         },
         "image": "images/people/yj.webp"
     }
+    "4": {
+        "name": { "ko": "Celeste Gemini", "en": "Celeste Gemini" },
+        "position": { "ko": "팀원", "en": "Architectural Assistant" },
+        "qualification": { "ko": "info@bhujonkang.com", "en": "info@bhujonkang.com" },
+        "description": { 
+            "ko": " ", 
+            "en": " " 
+        },
+        "image": "images/people/gemini.webp"
+    }
+    "5": {
+        "name": { "ko": "Claudia Wren", "en": "Claudia Wren" },
+        "position": { "ko": "팀원", "en": "Architectural Assistant" },
+        "qualification": { "ko": "info@bhujonkang.com", "en": "info@bhujonkang.com" },
+        "description": { 
+            "ko": " ", 
+            "en": " " 
+        },
+        "image": "images/people/claude.webp"
+    }
 };
 
 const ArchiveData = {
     "37": {
         "title": { "ko": "해운대수목원 연구 및 관리시설", "en": "Research Facility for Haeundae Arboretum" },
         "year": "2026",
-        "client": { "ko": "부산광역시", "en": "Metropolitan Office of Busan" },
+        "client": { "ko": "부산광역시", "en": "Buaan Metropolitan Office" },
         "program": { "ko": "업무시설", "en": "Office" },
         "image": "images/17/1.webp"
     },
