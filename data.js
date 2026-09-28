@@ -314,9 +314,6 @@ const projectData = {
         },
         "images": [
             "images/09/01.webp",
-            "images/09/02.webp",
-            "images/09/03.webp",
-            "images/09/04.webp",
             "images/09/04.webp",
             "images/09/05.webp",
             "images/09/06.webp",
