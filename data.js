@@ -1,4 +1,77 @@
 const projectData = {
+    "17": {
+        "select": false,
+        "title": {
+            "ko": "해운대수목원 연구 및 관리시설",
+            "en": "Research Facility for Haeundae Arboretum"
+        },
+        "subtitle": {
+            "ko": "땅에서부터 읽어낸 자취를 따라 빚은 언덕",
+            "en": "A hill shaped by following the traces read from the land."
+        },
+        "year": "2026",
+        "status": {
+            "ko": "설계공모 제안작",
+            "en": "Competition Proposal"
+        },
+        "location": {
+            "ko": "부산광역시",
+            "en": "Metropolitan Office of Busan"
+        },
+        "images": [
+            "images/17/01.webp",
+            "images/17/02.webp",
+            "images/17/03.webp",
+            "images/17/04.webp",
+            "images/17/05.webp",
+            "images/17/06.webp",
+            "images/17/07.webp"
+        ],
+        "desc": {
+            "ko": "본 설계안은 부산 해운대수목원의 생태적 가치와 주변 지형적 특성을 반영하여, 자연과 사람이 유기적으로 연결되는 친환경적이고 입체적인 공간을 제안합니다. 대지가 가진 지형 조건과 전면도로, 배후 녹지 간의 흐름을 분석하여 세 개의 호(ARC) 형태의 기하학적 볼륨을 구성하고, 지형을 재조직하는 인공 대지를 통해 자연과 건축이 부드럽게 융화되도록 계획했습니다. 이를 통해 수목원의 첫인상을 결정하는 전면공간은 방문객을 환영하는 개방적이고 역동적인 공공 영역으로 조성하고, 배후 영역은 연구실과 관리사무소 등 기능적 공간을 효율적으로 배치하여 공공성과 업무의 독립성을 동시에 확보했습니다. </br></br>내부 공간은 전면 로비를 중심으로 다양한 기능 조직이 유기적으로 둘러싸는 레이아웃을 적용하여 공간의 입체적 확장성과 시각적 연속성을 극대화했습니다. 특히 코르텐 강판, 로이복층유리, 알루미늄 시트 등 물성 간의 대비를 활용한 입면 계획과 곡면형 지붕 디자인은 주변 자연환경 속에서 세련된 긴장감과 독창적인 건축미를 선사합니다. 더불어 태양광 발전 시스템, 전열 교환기, 지열 냉난방 시스템 등 친환경 설비 계획과 3차원 내진설계를 적용하여 경제성과 지속가능성을 모두 갖춘 미래지향적 수목원 연구·관리 시설을 완성합니다.",
+            "en": "This design proposal for the Haeundae Arboretum Research and Management Facility reflects the ecological values and topographical characteristics of the site, creating an eco-friendly and multi-dimensional space where nature and people connect organically. By analyzing the flow between the site's conditions, the front road, and the rear greenery, the design establishes three arc-shaped geometric volumes. An artificial ground strategy reshapes the topography to allow architecture to harmonize smoothly with nature. As a result, the front area—which creates the first impression of the arboretum—is shaped as an open, dynamic public realm welcoming visitors, while the rear zone efficiently houses functional areas such as laboratories and management offices to ensure both public accessibility and operational independence. </br></br>The interior layout features various functional organizations organically surrounding a central lobby, maximizing the spatial expansion and visual continuity. In particular, the elevation design—utilizing contrasts between materials such as weathering (corten) steel, low-E double-glazed glass, and aluminum sheets—along with the curved roof design, introduces a sophisticated tension and original architectural beauty within the natural surroundings. Furthermore, incorporating eco-friendly building systems such as photovoltaic power generation, energy recovery ventilators, and geothermal HVAC systems, alongside 3D seismic design, completes a future-oriented arboretum facility that achieves both economic viability and sustainability."
+        },
+        "func": {
+            "ko": "전시시설",
+            "en": "Exhibition"  
+        }      
+    },
+    "16": {
+        "select": true,
+        "title": {
+            "ko": "포항시립박물관",
+            "en": "Pohang Museum"
+        },
+        "subtitle": {
+            "ko": "대지미술로서의 박물관",
+            "en": "Museum as Land-Art"
+        },
+        "year": "2026",
+        "status": {
+            "ko": "설계공모 5등작",
+            "en": "5th Prize"
+        },
+        "location": {
+            "ko": "경상북도 포항시",
+            "en": "Pohang-si, Gyeongsangbuk-Do"
+        },
+        "images": [
+            "images/16/01.webp",
+            "images/16/02.webp",
+            "images/16/03.webp",
+            "images/16/04.webp",
+            "images/16/05.webp",
+            "images/16/06.webp"
+        ],
+        "desc": {
+            "ko": "본 프로젝트는 지형과 건축의 관계를 대지 미술적 전략으로 재해석하여, 땅과 건물이 서로 대비되면서도 유기적으로 융화되는 구축적 방식을 취한다. 공간 구성의 핵심은 지중으로 파고든 매스와 상부로 상승한 매스의 명확한 대비에 있다. 지면 아래로 깊숙이 잠긴 하부 매스는 대지의 지층과 결합하여 포항의 역사를 다루는 차분하고 내밀한 전시 공간을 형성하며, 지형의 연속성을 훼손하지 않고 보존한다. 반면, 지상에 노출된 상부 매스는 기존 언덕의 형상을 대지 위에 다시 재현하듯 대지 위로 솟아올라 주변 바다와 공원을 향한 파노라마 같은 외부 전망을 극대화한다. 이 상부 매스의 지붕면은 옥상 정원을 통해 대지의 연장선인 경사형 데크로 환원되며, 관람객이 언덕 위를 거닐듯 풍경을 조망하는 대지 예술적 경험을 완성한다.",
+            "en": "This project reinterprets the relationship between natural topography and architecture through a land-art strategy, employing a construction method where the land and the building contrast yet organically merge. The spatial composition centers on the distinct contrast between a mass embedded in the ground and one that rises upward. The lower mass, submerged deep beneath the surface, integrates with the geological strata to create a serene, intimate exhibition space dedicated to Pohang’s history, all while preserving the continuity of the terrain. In contrast, the upper mass emerges above ground—evoking the form of the original hill—and maximizes panoramic views of the surrounding sea and park. The roof of this upper mass transforms into a public deck that serves as an extension of the landscape; through its sloped and rooftop gardens, it completes a land-art experience where visitors can take in the scenery as if strolling across a hillside."
+        },
+        "func": {
+            "ko": "전시시설",
+            "en": "Exhibition"  
+        }      
+    },
     "15": {
         "select": true,
         "title": {
@@ -851,6 +924,13 @@ const PeopleData = {
 };
 
 const ArchiveData = {
+    "37": {
+        "title": { "ko": "해운대수목원 연구 및 관리시설", "en": "Research Facility for Haeundae Arboretum" },
+        "year": "2026",
+        "client": { "ko": "부산광역시", "en": "Metropolitan Office of Busan" },
+        "program": { "ko": "업무시설", "en": "Office" },
+        "image": "images/17/1.webp"
+    },
     "36": {
         "title": { "ko": "동래구 제2국민체육센터", "en": "2nd Public Sports Center in DongRae-Gu" },
         "year": "2025",
@@ -933,14 +1013,14 @@ const ArchiveData = {
         "year": "2024",
         "client": { "ko": "부산", "en": "Busan" },
         "program": { "ko": "교육연구시설", "en": "Educational Facility" },
-        "image": "archive/25.webp"
+        "image": "proposed/25.webp"
     },
     "24": {
         "title": { "ko": "연산8동 주민센터", "en": "Yeonsan 8-dong Community Center" },
         "year": "2023",
         "client": { "ko": "부산광역시 연제구", "en": "Yeonje-gu, Busan" },
         "program": { "ko": "업무시설", "en": "Office" },
-        "image": "archive/24.webp"
+        "image": "proposed/24.webp"
     },
     "23": {
         "title": { "ko": "제주자치지원센터", "en": "Jeju Self-governance Support Center" },
