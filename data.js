@@ -928,7 +928,7 @@ const PeopleData = {
             "en": " " 
         },
         "image": "images/people/yj.webp"
-    }
+    },
     "4": {
         "name": { "ko": "Celeste Gemini", "en": "Celeste Gemini" },
         "position": { "ko": "팀원", "en": "Architectural Assistant" },
@@ -938,7 +938,7 @@ const PeopleData = {
             "en": " " 
         },
         "image": "images/people/gemini.webp"
-    }
+    },
     "5": {
         "name": { "ko": "Claudia Wren", "en": "Claudia Wren" },
         "position": { "ko": "팀원", "en": "Architectural Assistant" },
