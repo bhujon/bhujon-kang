@@ -733,7 +733,7 @@ const awardedData = {
         "year": "2023",
         "client": { "ko": "부산대학교", "en": "Pusan National University" },
         "program": { "ko": "교육연구시설(대학교)", "en": "Educational (University)" },
-        "image": "images/13/01.png",
+        "image": "images/13/01.webp",
 
     },
     "20": {
