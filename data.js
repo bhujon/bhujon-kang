@@ -874,7 +874,7 @@ const awardedData = {
         "year": "2016",
         "client": { "ko": "서울특별시", "en": "Metropolitan Office of Seoul" },
         "program": { "ko": "문화집회시설", "en": "Cultural Facility" },
-        "image": "images/05/01.jpg"
+        "image": "images/05/01.webp"
     },
     "2": {
         "title": { "ko": "해운대 복합기술교육원", "en": "Haeundae Complex Technology Education Center" },
