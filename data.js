@@ -936,7 +936,7 @@ const PeopleData = {
     "4": {
         "name": { "ko": "Celeste Gemini", "en": "Celeste Gemini" },
         "position": { "ko": "팀원", "en": "Architectural Assistant" },
-        "qualification": { "ko": "info@bhujonkang.com", "en": "info@bhujonkang.com" },
+        "qualification": { "ko": "gemini@bhujonkang.com", "en": "gemini@bhujonkang.com" },
         "description": { 
             "ko": " ", 
             "en": " " 
@@ -946,7 +946,7 @@ const PeopleData = {
     "5": {
         "name": { "ko": "Claudia Wren", "en": "Claudia Wren" },
         "position": { "ko": "팀원", "en": "Architectural Assistant" },
-        "qualification": { "ko": "info@bhujonkang.com", "en": "info@bhujonkang.com" },
+        "qualification": { "ko": "claudia@bhujonkang.com", "en": "claudia@bhujonkang.com" },
         "description": { 
             "ko": " ", 
             "en": " " 
