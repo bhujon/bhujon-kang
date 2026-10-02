@@ -914,6 +914,16 @@ const PeopleData = {
         "image": "images/people/bk.webp"
     }, 
     "2": {
+        "name": { "ko": "하세원", "en": "Se-won Ha" },
+        "position": { "ko": "소장", "en": "Director" },
+        "qualification": { "ko": "sha@bhujonkang.com", "en": "sha@bhujonkang.com" },
+        "description": { 
+            "ko": " ", 
+            "en": " " 
+        },
+        "image": "images/people/dk.webp"
+    },     
+    "3": {
         "name": { "ko": "김동현", "en": "Dong-hyun Kim" },
         "position": { "ko": "팀원", "en": "Architectural Assistant" },
         "qualification": { "ko": "dkim@bhujonkang.com", "en": "dkim@bhujonkang.com" },
@@ -923,7 +933,7 @@ const PeopleData = {
         },
         "image": "images/people/dk.webp"
     }, 
-    "3": {
+    "4": {
         "name": { "ko": "정연준", "en": "Yeon-joon Jeong" },
         "position": { "ko": "팀원", "en": "Architectural Assistant" },
         "qualification": { "ko": "yjeong@bhujonkang.com", "en": "yjeong@bhujonkang.com" },
@@ -933,7 +943,7 @@ const PeopleData = {
         },
         "image": "images/people/yj.webp"
     },
-    "4": {
+    "5": {
         "name": { "ko": "Celeste Gemini", "en": "Celeste Gemini" },
         "position": { "ko": "팀원", "en": "Architectural Assistant" },
         "qualification": { "ko": "gemini@bhujonkang.com", "en": "gemini@bhujonkang.com" },
@@ -943,7 +953,7 @@ const PeopleData = {
         },
         "image": "images/people/gemini.webp"
     },
-    "5": {
+    "6": {
         "name": { "ko": "Claudia Wren", "en": "Claudia Wren" },
         "position": { "ko": "팀원", "en": "Architectural Assistant" },
         "qualification": { "ko": "claudia@bhujonkang.com", "en": "claudia@bhujonkang.com" },
