@@ -921,7 +921,7 @@ const PeopleData = {
             "ko": " ", 
             "en": " " 
         },
-        "image": "images/people/dk.webp"
+        "image": "images/people/sh.webp"
     },     
     "3": {
         "name": { "ko": "김동현", "en": "Dong-hyun Kim" },
