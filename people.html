@@ -16,26 +16,28 @@
         /* people.html 상단 <style> 구역 */
         .view-title-xl {
             font-size: 42px; 
-            font-weight: 400; /* <--- 이 숫자를 변경하세요! */
+            font-weight: 400;
             line-height: 1.1;
             color: #000;
         }
 
-        /* [Masonry Layout] */
+        /* [Grid Layout: 반응형 자동 컬럼 확산] */
         .people-masonry {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr); 
-        gap: 30px; /* 요소들 사이의 상하좌우 간격 */
-        margin-top: 60px;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(min(100%, 240px), 300px)); 
+            gap: 30px;
+            margin-top: 60px;
+            justify-content: start;
         }
 
         .person-item {
-            display: inline-block;
+            display: flex;
+            flex-direction: column;
             width: 100%;
-            margin-bottom: 50px;
-            break-inside: avoid;
+            max-width: 300px;
             border-bottom: 1px solid #eee;
             padding-bottom: 30px;
+            margin-bottom: 20px;
         }
 
         .person-img {
@@ -75,14 +77,6 @@
         .alumni-list {
             font-size: 14px; color: #606060; line-height: 2;
         }
-
-        @media (max-width: 1024px) {
-        .people-masonry { grid-template-columns: repeat(2, 1fr); } /* 태블릿에선 2열 */
-        }
-        @media (max-width: 600px) {
-        .people-masonry { grid-template-columns: repeat(1fr); } /* 태블릿에선 2열 */
-        }    
-    
     </style>
 </head>
 <body>
