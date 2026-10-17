@@ -140,7 +140,7 @@ const projectData = {
             "images/14/03.webp",
             "images/14/10.webp",      
             "images/14/04.webp",   
-            "images/14/05.webp", 
+            "images/14/05.gif", 
             "images/14/06.webp",
             "images/14/07.webp",
             "images/14/08.webp",
@@ -180,7 +180,7 @@ const projectData = {
             "images/13/01.webp",
             "images/13/02.webp",   
             "images/13/03.webp", 
-            "images/13/04.webp",
+            "images/13/04.gif",
             "images/13/05.webp",
             "images/13/06.webp",   
             "images/13/07.webp",      
@@ -254,7 +254,7 @@ const projectData = {
             "images/11/02.webp",
             "images/11/03.webp",
             "images/11/04.webp",
-            "images/11/07.webp",
+            "images/11/07.gif",
             "images/11/05.webp",
             "images/11/06.webp",            
         ],
@@ -325,7 +325,7 @@ const projectData = {
             "images/09/05.webp",
             "images/09/06.webp",
             "images/09/07.webp",
-            "images/09/08.webp"
+            "images/09/08.gif"
         ],
         "desc": {
             "ko": "<b>단일 매스의 공극과 건축적 정체성</b></br>'내파한 단일체(Imploded Monolith)'라는 주제의 부산진문화원 설계안은 균질한 하나의 덩어리 내부에 공극을 형성하여 미로 같은 내부 공간 체계를 구축하는 것을 핵심으로 합니다. 단일체 매스에서 개념적인 공간 집합체를 제거하여 만들어진 '공극(Porous)'은 그 자체로 파사드를 구성하는 조형 요소가 됩니다. 이는 고층 건물군에 둘러싸여 정체성을 드러내기 어려운 대지 환경에 대응하기 위한 전략으로, '콩자갈 노출 마감'이라는 단일 재료를 활용해 경제성을 확보하면서도 복잡한 도심 속에서 명확하고 안정적인 건축적 인지성을 확보합니다.</br></br><b>수직적 연계와 프로그램의 입체적 적층</b></br>공간 계획에서는 협소한 대지 면적의 한계를 극복하기 위해 하층부의 관리 및 자료실부터 상층부의 공연 및 교육 시설까지 기능을 수직으로 적층했습니다. 특히 법적 피난 계단을 건물 전체를 관통하는 '수직적 공용 공간'으로 재해석하여, 단순한 이동 통로를 넘어 주민들이 소통하고 휴식할 수 있는 건축적 장치로 활용합니다. 2층과 3층의 계단식 휴게 공간은 정보 획득과 강연이 가능한 카페 같은 분위기를 조성하며, 지상 1층 로비부터 옥상 정원까지 자연스럽게 연결되는 동선 체계를 통해 건물 전체에 공공성을 부여합니다.</br></br><b>환경 대응형 디자인과 기술적 통합</b></br>본 설계안은 기능별 요구에 맞춘 적절한 층고 계획(다목적홀 6.0M 등)과 옥상 정원을 적극 활용하여 도심 속 개방감을 극대화합니다. 최상층인 6층의 도자기실은 외부 중정 및 옥상 활동 공간과 연계되어 탁 트인 전망과 휴식을 동시에 제공합니다. 기술적으로는 BIM을 적용한 내진 구조 설계와 더불어 태양광 패널, 고효율 설비 시스템을 통합하여 '탄소 제로'를 지향하는 친환경 건축물을 구현합니다. 이러한 건축과 엔지니어링의 결합은 부산진문화원이 지역 주민 복지의 구심점으로서 지속 가능한 문화 거점이 되도록 뒷받침합니다.",
@@ -402,7 +402,7 @@ const projectData = {
             "images/07/05.webp",
             "images/07/06.webp",
             "images/07/07.webp",
-            "images/07/08.webp",
+            "images/07/08.gif",
             "images/07/09.webp"
         ],
         "desc": {
@@ -437,7 +437,7 @@ const projectData = {
             "images/06/01.webp",
             "images/06/02.webp",
             "images/06/03.webp",
-            "images/06/04.webp",
+            "images/06/04.gif",
             "images/06/05.webp",
             "images/06/06.webp"
         ],
