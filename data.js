@@ -19,13 +19,13 @@ const projectData = {
             "en": "Metropolitan Office of Busan"
         },
         "images": [
-            "images/18/1.webp",
-            "images/18/2.webp",
-            "images/18/3.webp",
-            "images/18/4.webp",
-            "images/18/5.webp",
-            "images/18/6.webp",
-            "images/18/7.webp"
+            "images/18/1.webp?v=20261021",
+            "images/18/2.webp?v=20261021",
+            "images/18/3.webp?v=20261021",
+            "images/18/4.webp?v=20261021",
+            "images/18/5.webp?v=20261021",
+            "images/18/6.webp?v=20261021",
+            "images/18/7.webp?v=20261021"
         ],
         "desc": {
             "ko": "본 설계안은 부산 해운대수목원의 생태적 가치와 주변 지형적 특성을 반영하여, 자연과 사람이 유기적으로 연결되는 친환경적이고 입체적인 공간을 제안합니다. 대지가 가진 지형 조건과 전면도로, 배후 녹지 간의 흐름을 분석하여 세 개의 호(ARC) 형태의 기하학적 볼륨을 구성하고, 지형을 재조직하는 인공 대지를 통해 자연과 건축이 부드럽게 융화되도록 계획했습니다. 이를 통해 수목원의 첫인상을 결정하는 전면공간은 방문객을 환영하는 개방적이고 역동적인 공공 영역으로 조성하고, 배후 영역은 연구실과 관리사무소 등 기능적 공간을 효율적으로 배치하여 공공성과 업무의 독립성을 동시에 확보했습니다. </br></br>내부 공간은 전면 로비를 중심으로 다양한 기능 조직이 유기적으로 둘러싸는 레이아웃을 적용하여 공간의 입체적 확장성과 시각적 연속성을 극대화했습니다. 특히 코르텐 강판, 로이복층유리, 알루미늄 시트 등 물성 간의 대비를 활용한 입면 계획과 곡면형 지붕 디자인은 주변 자연환경 속에서 세련된 긴장감과 독창적인 건축미를 선사합니다. 더불어 태양광 발전 시스템, 전열 교환기, 지열 냉난방 시스템 등 친환경 설비 계획과 3차원 내진설계를 적용하여 경제성과 지속가능성을 모두 갖춘 미래지향적 수목원 연구·관리 시설을 완성합니다.",
@@ -135,16 +135,16 @@ const projectData = {
             "en": "Buk-gu, Busan"
         },
         "images": [
-            "images/15/02.webp",
-            "images/15/01.webp",
-            "images/15/03.webp",
-            "images/15/04.webp",
-            "images/15/05.webp",
-            "images/15/06.webp",
-            "images/15/07.webp",
-            "images/15/08.webp",
-            "images/15/09.gif",
-            "images/15/11.webp"
+            "images/15/02.webp?v=20261021",
+            "images/15/01.webp?v=20261021",
+            "images/15/03.webp?v=20261021",
+            "images/15/04.webp?v=20261021",
+            "images/15/05.webp?v=20261021",
+            "images/15/06.webp?v=20261021",
+            "images/15/07.webp?v=20261021",
+            "images/15/08.webp?v=20261021",
+            "images/15/09.gif?v=20261021",
+            "images/15/11.webp?v=20261021"
         ],
         "desc": {
             "ko": "기존의 통합 구청사는 본청, 보건소, 의회 등의 시설들이 각자의 매스를 지닌 채 분리된 형태로 계획되어 왔습니다. 이러한 배치는 시설별 독립성을 유지하기 위해 위계적인 볼륨 체계를 가지게 되며, 내부공간의 다양성은 본청사에 한정되고 각 시설 간의 연계는 외부공간을 통해서만 이루어집니다. 또한 분리된 매스의 조합은 넓은 지하주차장과 시설별 코어, 경사면의 과도한 절토 등 계획적·기술적 어려움을 낳아 주어진 공사비를 충족하기 어렵습니다.</br></br>본 제안은 그러한 배치의 전형성이 주어진 경사지에서 최적화될 수 있는가라는 물음에서 시작되었습니다. 청사의 상징성을 구현하는 높은 볼륨과 경사면 위에 안정적으로 형성된 포디엄의 조합을 통해 본청, 보건소, 구의회의 세 시설을 통합하고, 포디엄 상부의 옥상정원과 두 매스 사이의 중앙광장이 각기 다른 성격의 오픈스페이스를 구성합니다. 이러한 매스 구성은 경사지형에 자연스럽게 내려앉아 주변과 어울리며 내외부 공간의 확장성을 긴밀하게 작동시킵니다.</br></br>지형에서 이어지는 포디엄과 그 위로 솟아오른 타워의 병치는 내외부 공간의 연계성을 구축하며 낙동강변의 새로운 랜드마크가 됩니다. 본청 타워를 관통하는 아트리움의 수직성과 중정 및 옥상정원을 가로지르는 외부공간의 수평성이 교차하며 공간의 확장성을 부여합니다.",
@@ -327,15 +327,15 @@ const projectData = {
             "en": "Sedona, AZ, US"
         },
         "images": [
-            "images/10/01.webp",
-            "images/10/02.webp",
-            "images/10/03.webp",
-            "images/10/04.webp",
-            "images/10/05.webp",
-            "images/10/06.webp",
-            "images/10/07.webp",
-            "images/10/08.webp",
-            "images/10/09.webp"
+            "images/10/01.webp?v=20261021",
+            "images/10/02.webp?v=20261021",
+            "images/10/03.webp?v=20261021",
+            "images/10/04.webp?v=20261021",
+            "images/10/05.webp?v=20261021",
+            "images/10/06.webp?v=20261021",
+            "images/10/07.webp?v=20261021",
+            "images/10/08.webp?v=20261021",
+            "images/10/09.webp?v=20261021"
         ],
         "desc": {
             "ko": "",
@@ -1017,7 +1017,7 @@ const ArchiveData = {
         "year": "2026",
         "client": { "ko": "부산광역시", "en": "Busan Metropolitan Office" },
         "program": { "ko": "업무시설", "en": "Office" },
-        "image": "images/18/1.webp"
+        "image": "images/18/1.webp?v=20261021"
     },
     "36": {
         "title": { "ko": "동래구 제2국민체육센터", "en": "2nd Public Sports Center in DongRae-Gu" },
@@ -1073,7 +1073,7 @@ const ArchiveData = {
         "year": "2025",
         "client": { "ko": "부산광역시 북구", "en": "Buk-Gu, Busan" },
         "program": { "ko": "공공업무시설", "en": "Public Office" },
-        "image": "images/15/01.webp"
+        "image": "images/15/01.webp?v=20261021"
     },
     "28": {
         "title": { "ko": "망미체육센터", "en": "Mangmi Sports Center" },
