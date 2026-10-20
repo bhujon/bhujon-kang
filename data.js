@@ -135,8 +135,8 @@ const projectData = {
             "en": "Buk-gu, Busan"
         },
         "images": [
-            "images/15/01.webp",
             "images/15/02.webp",
+            "images/15/01.webp",
             "images/15/03.webp",
             "images/15/04.webp",
             "images/15/05.webp",
@@ -144,7 +144,6 @@ const projectData = {
             "images/15/07.webp",
             "images/15/08.webp",
             "images/15/09.gif",
-            "images/15/10.webp",
             "images/15/11.webp"
         ],
         "desc": {
