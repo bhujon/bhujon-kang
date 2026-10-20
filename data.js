@@ -288,8 +288,14 @@ const projectData = {
         },
         "images": [
             "images/10/01.webp",
+            "images/10/02.webp",
             "images/10/03.webp",
-            "images/10/04.webp"
+            "images/10/04.webp",
+            "images/10/05.webp",
+            "images/10/06.webp",
+            "images/10/07.webp",
+            "images/10/08.webp",
+            "images/10/09.webp"
         ],
         "desc": {
             "ko": "",
