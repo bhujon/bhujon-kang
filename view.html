@@ -174,9 +174,13 @@
             .view-hero-area, .view-title-section { padding: 0 20px; }
             .view-title-xl { font-size: 32px; }
             .bento-grid-area {
-                grid-template-columns: repeat(2, 1fr); /* 모바일에서는 2열 정사각형 */
+                grid-template-columns: 1fr; /* 모바일에서는 1열, 원본 비율 그대로 */
                 padding: 0 20px 40px; 
             }
+            .bento-unit { aspect-ratio: auto; }
+            .bento-unit img { height: auto; object-fit: contain; }
+            .bento-unit.is-video { aspect-ratio: 16 / 9; }
+            .bento-unit.is-video img { height: 100%; object-fit: cover; }
         }
     </style>
 </head>
@@ -328,6 +332,7 @@
                     unit.className = 'bento-unit';
                     
                     if (ytId) {
+                        unit.classList.add('is-video');
                         unit.innerHTML = `<img src="https://img.youtube.com/vi/${ytId}/hqdefault.jpg"><div class="video-overlay"><div class="play-icon"></div></div>`;
                         unit.onclick = () => openLightbox(url, ytId);
                     } else {
