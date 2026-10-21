@@ -21,7 +21,7 @@ const projectData = {
         "images": [
             "images/18/1.webp?v=20261021",
             "images/18/2.webp?v=20261021",
-            "images/18/3.webp?v=20261021",
+            "images/18/3.webp?v=20261021c",
             "images/18/4.webp?v=20261021",
             "images/18/5.webp?v=20261021",
             "images/18/6.webp?v=20261021",
