@@ -219,6 +219,7 @@ const projectData = {
         "images": [
             "images/13/01.webp",
             "images/13/02.webp",   
+            "images/13/08.webp",
             "images/13/03.webp", 
             "images/13/04.gif",
             "images/13/05.webp",
