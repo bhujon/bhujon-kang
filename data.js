@@ -246,10 +246,10 @@ const projectData = {
             "ko": "정관변주곡",
             "en": "Variation of JeongGwan"
         },
-        "year": "2024-",
+        "year": "2026",
         "status": {
-            "ko": "공사중",
-            "en": "Under Construction"
+            "ko": "완공",
+            "en": "Completed"
         },
         "location": {
             "ko": "부산광역시 기장군",
